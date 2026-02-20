@@ -16,7 +16,7 @@ st.markdown("""
 <style>
 body {
     background: linear-gradient(135deg, #0f172a, #020617);
-    color: white;
+    color: blue;
     font-family: Arial, sans-serif;
 }
 
@@ -72,7 +72,7 @@ body {
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: white;
+    color: blue;
     transition: 0.3s ease;
 }
 
